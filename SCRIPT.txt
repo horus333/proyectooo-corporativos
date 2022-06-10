@@ -1,5 +1,6 @@
 --Universidad Laica Eloy Alfaro de Manabí
---Mendoza Parraga Andres Gonzalo
+--BURBANO SILVA DAVID
+-- MEZA CEDEÑO GALO
 --Materia: Gestión de base de datos
 --Docente y colaborador: Ing. Robert Wilfrido Moreira Centeno, Mg
 
